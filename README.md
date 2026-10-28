@@ -1,18 +1,105 @@
-# 💫 About Me:
-BCA Graduate | Aspiring AI & Data Science Professional<br>Building Python, AI, Machine Learning & Full-Stack Projects<br>Passionate about Python, Data Analytics, Automation, and Problem Solving<br>Currently learning Advanced Python, GenAI, and Cloud Technologies
+### Hi, I'm Piyush Kadam 👋
+
+BCA Graduate | Aspiring Data Scientist | Generative AI Engineer
+I'm an AI and Data Science enthusiast focused on building practical solutions with Python, Machine Learning, data analytics, and Generative AI. I enjoy turning real-world problems into data-driven applications and continuously improving my engineering skills through hands-on projects.
+- 🎓 BCA Graduate
+- 📊 Interested in data analysis, predictive modeling, and visualization
+- 🤖 Building with Machine Learning, LLMs, embeddings, and Retrieval-Augmented Generation (RAG)
+- 🐍 Developing Python, SQL, and API development skills
+- ☁️ Learning cloud fundamentals and modern AI application development
+- 🎯 Open to suitable entry-level roles, internships, and project collaborations in Data Science, Data Analytics, Python Development, and Generative AI
+🌐 Connect With Me
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushkadampk7031) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kadampiyush7031@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=virtualpiyu&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=virtualpiyu&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=virtualpiyu&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🚀 Projects
+## ⚖️ LexHub — AI Legal Aid for India
+Generative AI · RAG · NLP · Machine Learning
+Status: In development
+- Building a legal-information assistant focused on question answering from Indian legal materials.
+- Uses a Retrieval-Augmented Generation approach to ground responses in relevant source text.
+- Developing a contract-risk analysis workflow; this component is still in progress.
+- Designed as an educational information tool, not a substitute for advice from a qualified legal professional.
+Tools: Python, FastAPI, LangChain, FAISS, LLM APIs, Scikit-learn, XGBoost
 
----
-[![](https://komarev.com/ghpvc/?username=virtualpiyu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 SecureRAG — AI-Powered Document Intelligence
+Generative AI · Document Question Answering
+- Built a prototype that answers questions using uploaded PDF documents.
+- Implemented document loading, text chunking, embeddings, and semantic retrieval.
+- Used FAISS for vector similarity search and connected LLM providers for context-aware responses.
+- Created a Streamlit interface for interacting with documents.
+Tools: Python, Streamlit, LangChain, FAISS, Google Gemini, OpenAI APIs, Hugging Face
+
+
+## 🚗 Ola Ride Demand Analysis and Prediction
+Data Science · Machine Learning · Predictive Modeling
+- Analyzed historical ride-demand data to explore trends and peak-demand patterns.
+- Worked on data cleaning, exploratory data analysis, and feature engineering.
+- Developed and evaluated machine learning models for demand prediction.
+- Focused on using forecasts to support resource planning and operational decision-making.
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+
+
+## 🗄️ Gym Management System Database
+SQL · Relational Database Design · Supabase/PostgreSQL
+- Designed a relational database for gym operations, including members, attendance, classes, and bookings.
+- Practiced primary keys, foreign keys, table relationships, and database constraints across multiple tables.
+- Used SQL Editor workflows to create and validate the schema.
+Tools: SQL, PostgreSQL, Supabase
+
+
+## 🤝 Confidential Startup Collaboration
+Collaborating with industry professionals associated with Microsoft, IBM, HCLTech, and Fujitec on a confidential early-stage startup initiative. The venture's name, product concept, and internal work are intentionally not disclosed. This description does not imply an official partnership or endorsement by those companies.
+
+
+### 💻 Technical Skills
+Programming & Query Languages
+
+
+
+
+
+
+
+Data Science & Machine Learning
+
+
+
+
+
+
+
+
+Generative AI & LLM Applications
+
+
+
+
+
+Backend, Databases & Tools
+
+
+
+
+
+
+
+
+
+
+
+### 📚 Currently Learning
+- Supervised and unsupervised Machine Learning
+- Regression, classification, feature engineering, and model evaluation
+- Statistics and exploratory data analysis
+- LLM applications, RAG pipelines, and semantic search
+- API development, deployment, and cloud fundamentals
+
+### 📊 GitHub Statistics
+
+### 🎯 Career Focus
+
+My goal is to become a strong Data Scientist and Generative AI Engineer by combining sound analytical foundations with practical AI engineering. I welcome opportunities to learn, contribute, and build useful data-driven products.
+
+⭐ Thanks for visiting my profile. Explore my public repositories and feel free to connect!
